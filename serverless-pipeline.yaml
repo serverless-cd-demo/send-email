@@ -1,0 +1,6 @@
+name: "Send Email"
+steps:
+  - name: 发送邮件
+    plugin: "@serverless-cd/send-email"
+    inputs:
+      
